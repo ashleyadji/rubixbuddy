@@ -5,6 +5,8 @@ An app that helps someone solve their first rubix cube start to finish.
 Uses a "flashcard" like style to teach you the notation and 
 sequences of moves to make at certain sections.
 
+Runs on Chrome Web
+
 Features:
 - Multiple Routes (Notation and Move mode)
 - Custom rubix cube images
