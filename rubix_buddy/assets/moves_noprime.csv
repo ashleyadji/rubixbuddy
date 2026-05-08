@@ -1,0 +1,15 @@
+stage1_E,stage1_whitecross.png,stage1_startE.png,stage1_whitecross.png,“U S O ”
+stage1_D,stage1_whitecross.png,stage1_startD.png,stage1_goalA.png,“U E O ”
+stage1_C,stage1_whitecross.png,stage1_startC.png,stage1_goalA.png,“O R U ”
+stage1_B,stage1_whitecross.png,stage1_startB.png,stage1_goalA.png,“G O R U ”
+stage1_A,stage1_whitecross.png,stage1_startA.png,stage1_goalA.png,“F O R U ”
+stage2_R,stage2_whitecorners.png,stage2_start_right.png,stage2_goal_right.png,“R U S O ”
+stage2_L,stage2_whitecorners.png,stage2_start_left.png,stage2_goal_left.png,“E O L U ”
+stage3_R,stage3_solvemiddle.png,stage3_start_placeright.png,stage3_goal_placeright.png,“U R U S O CL E O L U ”
+stage3_L,stage3_solvemiddle.png,stage3_start_placeleft.png,stage3_goal_placeleft.png,“O E O L U CR R U S U ” 
+stage4_C,stage4_yellowcross.png,stage4_start_yellowcenter.png,stage4_goal_yellowlineorcross.png,“F R U S O G ”
+stage4_L,stage4_yellowcross.png,stage4_start_yellowline.png,stage4_yellowcross.png,“F R U S O G ”
+stage4_T,stage4_yellowcross.png,stage4_start_yellowtrio.png,stage4_yellowcross.png,“F U R O S G ”
+stage5_A,stage5_fixyellowcross.png,stage5_start_adjacent.png,stage5_goal_adjacent.png,“R U S U R U U S U ”
+stage6_A,stage6_alignyellowcorners.png,stage6_start_alignyellowcorners.png,stage6_alignyellowcorners.png,“U R O E U S O L ”
+stage7_A,stage7_solvecube.png,stage7_start_solvecube.png,stage7_goal_solvecube.png,“S N R D ”  

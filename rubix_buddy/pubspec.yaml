@@ -1,0 +1,43 @@
+name: rubix_buddy
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_launcher_icons: ^0.14.4
+  flutter_bloc: ^9.1.1
+  csv: ^8.0.0
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  hydrated_bloc: ^11.0.0
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/rubixbuddy_icon.png"
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: PixelFont
+      fonts:
+        - asset: assets/fonts/PressStart2P-Regular.ttf
+
+  assets:
+    - assets/
+  
